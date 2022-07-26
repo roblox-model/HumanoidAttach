@@ -5,6 +5,8 @@ i took the decision of leaking it because it already got leaked by ShownApe and 
 
 TL;DR: leaking bc already leaked
 
+(i won't give my grab knife tho modify the code yourself to make one)
+
 Instructions To Use:
 
 1. have 2 tools
