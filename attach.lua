@@ -1,8 +1,4 @@
 --[[
-Showcase Videos:
-https://i.gyazo.com/535cbdda84788ab6d094...07f25f.gif
-https://i.gyazo.com/1c97fed9fe33bdbf2768...26baff.gif
-https://i.gyazo.com/3fde2e1e96cf2a4ab0c0...b23f5e.gif
 Credits:
 Elden - Right Grip method
 AnthonyIsntHere - Script
