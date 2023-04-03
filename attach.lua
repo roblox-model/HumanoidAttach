@@ -11,7 +11,7 @@ Cool shout-outs:
 ShownApe
 Hydro
 Arian
-Samy
+Primadon
 ]]--
 
 local Config = {
